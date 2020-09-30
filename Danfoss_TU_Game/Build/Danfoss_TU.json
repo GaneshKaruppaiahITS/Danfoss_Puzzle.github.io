@@ -1,0 +1,13 @@
+{
+"companyName": "Danfoss Cooling",
+"productName": "Danfoss Puzzle Game",
+"dataUrl": "Danfoss_TU.data.unityweb",
+"asmCodeUrl": "Danfoss_TU.asm.code.unityweb",
+"asmMemoryUrl": "Danfoss_TU.asm.memory.unityweb",
+"asmFrameworkUrl": "Danfoss_TU.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
